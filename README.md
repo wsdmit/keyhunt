@@ -88,6 +88,7 @@ To clone the repository
 
 ```
 git clone https://github.com/albertobsd/keyhunt.git
+git clone https://github.com/albertobsd/keyhunt.git
 ```
 
 don't forget change to the keyhunt directory (But i'm not here to teach you linux commands)
