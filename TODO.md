@@ -3,6 +3,9 @@
 - GPU support
 - Make a test files for All cases of input data with fixed ranges of search
 - address BTC legacy, bech32, ETH
+- To fix it Introsort was inmplement
+- Fixed bottleneck of Point - Scalar multiplication
+  This was fix implementing a fixed Doubling Point G
 
 #DONE
 - Optimize Point Addition, maybe with a custom bignumber lib instead libgmp
