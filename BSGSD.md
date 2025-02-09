@@ -2,6 +2,10 @@
 
 `BSGS` method  but as local `server`, final `D` stand for daemon.
 
+# BSGSD
+
+`BSGS` method  but as local `server`, final `D` stand for daemon.
+
 ### Compilation
 Same as keyhunt we need to do 
 ```make bsgsd```
@@ -160,5 +164,7 @@ for i in range(num_iterations):
         print(f'Received reply: {reply}')
         print(f'Elapsed time: {elapsed_time} seconds')
 ```
+
+The previous client example only repeat 5 times the same target, change it according to your needs.
 
 The previous client example only repeat 5 times the same target, change it according to your needs.
